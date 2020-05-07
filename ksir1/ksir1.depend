@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588844653 source:/home/iulia.morariu/Programe info c++/ksir1/main.cpp
+	<iostream>
+	<fstream>
+
