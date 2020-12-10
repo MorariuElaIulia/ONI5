@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607447672 source:/home/iulia/Programe info C++/Razboi/main.cpp
+	<iostream>
+	<fstream>
+
